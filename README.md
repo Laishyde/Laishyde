@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá, Azume here! 👋
 
-<!--
-**Laishyde/Laishyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer | AI & Automation Specialist | Web & Mobile Architecture**
 
-Here are some ideas to get you started:
+São Paulo, Brasil 📍 | [LinkedIn](https://linkedin.com) | [E-mail](mailto:laiscristina.animamundi@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+Engenheira Full Stack focada na criação de soluções escaláveis, automação inteligente e integração de **IA Generativa (LLMs)** aplicadas a negócios. Tenho forte atuação na construção de arquiteturas limpas, otimização de performance (*Core Web Vitals*), segurança de APIs e pipelines de integração contínua (CI/CD).
+
+- 🧠 **Inovação & IA:** Desenvolvimento de sistemas SaaS multimodais integrando Python (FastAPI), LangChain e ecossistemas de LLMs.
+- ⚡ **Otimização & Custos:** Aplicação estratégica de *Rate Limiting* e controle de chamadas em APIs de IA, gerando redução comprovada de custos operacionais e infraestrutura.
+- 📊 **Impacto de Negócio:** Desenvolvimento de plataformas de alta escala (e-commerce e fintechs/contact center), automatizando fluxos financeiros e expandindo bases ativas de usuários.
+- 🧪 **Qualidade & Segurança:** Foco em arquiteturas orientadas a testes (Pytest, Jest), autenticação robusta (JWT) e padrões OpenAPI/Swagger.
+
+---
+
+### 🛠️ Tech Stack & Ecossistema
+
+| Domínio | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Front-End & Mobile** | React, React Native (Expo), TypeScript, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Back-End & AI** | Python (FastAPI, Flask), Node.js (Express), LangChain, LLMs, REST APIs |
+| **Bancos de Dados** | MongoDB Atlas, MySQL |
+| **Testes & Qualidade** | Pytest, Jest, Cypress, Postman, Swagger / OpenAPI |
+| **Infra, DevOps & Cloud** | Vercel, Render, CI/CD Pipelines, Git, GitHub Actions |
+| **Integradores & Pagamentos**| Stripe, Mercado Pago, Twilio API, Resend |
+
+---
+
+### 🌟 Destaques de Impacto Técnico
+
+* **Plataforma SaaS Multimodal com IA:** Arquitetura end-to-end utilizando FastAPI e LangChain, com autenticação JWT, integração Stripe e controle estrito de taxas de consumo (*Rate Limiting*).
+* **Automação Financeira & Contact Center:** Sistema de negociação de dívidas com capacidade para validação de grandes volumes de dados (CPFs) em tempo real, integrando pagamentos via Mercado Pago.
+* **Agentes de Atendimento & Retenção:** Automação de canais de suporte e chatbots via Twilio API, reduzindo fricções de UX no checkout e alavancando a retenção de clientes.
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laishyde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laishyde&layout=compact&theme=dark&hide=html,css"/>
+</div>
+
+---
+
+<div align="center">
+  <i>"Transformando complexidade técnica em soluções simples, performáticas e de alto valor de negócio."</i>
+</div>
