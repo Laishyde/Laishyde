@@ -37,15 +37,15 @@ Engenheira Full Stack focada na criação de soluções escaláveis, automação
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 🚀 Stacks em Destaque no Dia a Dia
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laishyde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laishyde&layout=compact&theme=dark&hide=html,css"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-<div align="center">
-  <i>"Transformando complexidade técnica em soluções simples, performáticas e de alto valor de negócio."</i>
-</div>
+> *"Transformando complexidade técnica em soluções simples, performáticas e de alto valor de negócio."*
